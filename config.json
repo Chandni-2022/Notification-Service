@@ -1,0 +1,8 @@
+{
+        "primaryEmail": "your_primary_emailID",  
+        "primaryPassword": "your_primary_password",
+        "internEmail": "your_backup_emailID",
+        "internPassword": "your_backup_password",
+        "adminEmail": "your_admin_emailID"
+      }
+      
